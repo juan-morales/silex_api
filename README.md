@@ -20,7 +20,7 @@ General project schema to create a PHP Silex Project (REST APIs) using an Servic
 * JSON responses.
 * Version 1.0
 
-### Test Routes
+### Test Routes - They are all POST URLs
 + Hello World   -parameter: name
 > > ####  http://localhost/silex_api/web/index.php/api/v1/helloworld
 
